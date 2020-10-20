@@ -116,6 +116,14 @@ p.lead {
   color: #343a40;
 }
 
+.dev-icons .aws i {
+  color: #eb9600;
+}
+
+.dev-icons .database i {
+  color: #1e558c;
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
