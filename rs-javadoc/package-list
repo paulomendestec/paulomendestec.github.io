@@ -1,0 +1,9 @@
+dev.paulomendes.report.annotation
+dev.paulomendes.report.dto
+dev.paulomendes.report.dto.impl
+dev.paulomendes.report.exception
+dev.paulomendes.report.output
+dev.paulomendes.report.output.impl
+dev.paulomendes.report.service
+dev.paulomendes.report.service.impl
+dev.paulomendes.report.type
